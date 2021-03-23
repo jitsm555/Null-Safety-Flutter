@@ -6,8 +6,11 @@ As a developer, we always struggle to handle NullPointerException which causes a
 
 <img src="images/null_safety.png" height="400" alt="Screenshot"/> 
 
-Don't forget to star⭐ and contribute if you want. 
+# Article
+Flutter Null Safety ([Medium](https://medium.com/flutterworld/flutter-null-safety-5d20012c2441) )
 
+
+Don't forget to star⭐ and contribute if you want. 
 
 # Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
